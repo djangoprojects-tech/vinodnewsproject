@@ -1,0 +1,17 @@
+.container .jumbotron{
+  color:green;
+  background:black;
+  margin-top: 150px;
+}
+body{
+  background:url(https://images.unsplash.com/photo-1604344461677-7bcc350b4e44?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80)
+  }
+#first{
+  height:250px;
+  width:250;
+  margin-right: 50px;
+  position:absolute;
+}
+#second{
+  position: relative;
+}
